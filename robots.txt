@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://www.raushantiwari.dev/sitemap.xml
